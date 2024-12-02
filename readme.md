@@ -5,3 +5,5 @@
 - Frequency Model
 - Normalized Frequency Model
 - TF-IDF Model
+
+### Результаты можно посмотреть в .csv файлах
